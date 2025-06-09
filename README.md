@@ -8,7 +8,7 @@ A new Flutter project.
 ![Home Screen](ss/Home_Screen.jpg)
 
 ### Weather Screen
-![Weather Screen](ss/Weather_Screen.jpg)
+![Weather Screen](ss/Weather_Page.jpg)
 
 
 ## 🎬 Demo Video
