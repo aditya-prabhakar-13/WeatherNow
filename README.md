@@ -1,16 +1,18 @@
-# weathernow
+## WeatherNow
 
 A new Flutter project.
 
-## Getting Started
+## 📸 Screenshots
 
-This project is a starting point for a Flutter application.
+### Home Screen
+![Home Screen](ss/Screenshot_2025-06-09-23-13-04-75_5b146dfc6fadcac5a7049652e04eac1a.png)
 
-A few resources to get you started if this is your first Flutter project:
+### Weather Screen
+![Weather Screen](ss/Screenshot_2025-06-09-23-13-09-27_5b146dfc6fadcac5a7049652e04eac1a.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🎬 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/bZ1dq32Btus/0.jpg)](https://youtube.com/shorts/bZ1dq32Btus)
+
+
